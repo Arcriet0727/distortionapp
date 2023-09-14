@@ -83,7 +83,7 @@ function setup() {
    //   videoTexture = createGraphics(1000, 500);
 camera(0, 0, 0, 0, 0, -1, 0, 1, 0); 
     noStroke();
-  //perspective(PI/3, width/height, 0.001,500);
+  perspective(PI/3, width/height, 0.001,500);
 
  
 }
