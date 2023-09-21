@@ -11,4 +11,5 @@ The slider in the top-left corner allows you to set the speed of light to achiev
 This demo version will be updated periodically.
 
 Log:
+
 9/21/2023: Applied shader for the video stream and transformed the code to the landscape mode. Fixed the 0 speed and heading bug.
