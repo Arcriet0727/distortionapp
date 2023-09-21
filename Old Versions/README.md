@@ -1,5 +1,5 @@
 # Relativistic Distortion App
-On the homepage, there's a demo version of the distortionapp principle. Users can access the GitHub Pages link on the right to understand the principle of relativistic distortion effects based on the Lookalike Sphere. The "stroke" checkbox allows users to display strokes, and the "image" checkbox allows users to display panoramic images to simulate real-scene distortion effects. The "outside" checkbox provides an external view of the Lookalike Sphere, letting users see how the Lookalike Sphere deforms in different speed directions.
+On this page, there's a demo version of the distortionapp principle. Users can access the GitHub Pages link on the right to understand the principle of relativistic distortion effects based on the Lookalike Sphere. The "stroke" checkbox allows users to display strokes, and the "image" checkbox allows users to display panoramic images to simulate real-scene distortion effects. The "outside" checkbox provides an external view of the Lookalike Sphere, letting users see how the Lookalike Sphere deforms in different speed directions.
 
 Additionally, there are two folders: "perspective transformation" and "Dynamic App".
 
